@@ -1,0 +1,11 @@
+label{
+  display: block;
+  margin-bottom: 0.5em;
+}
+.btnDel{
+  margin-right: 10px;
+}
+small{
+  display: block;
+  color: red;
+}
